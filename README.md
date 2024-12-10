@@ -1,6 +1,7 @@
 *--- Student Management System in C++ ---*
+
 #Overview
-The Student Management System is a console-based application built in C++ that allows users to manage a list of students, their academic performance, and results. It uses a linked list data structure to dynamically store and manipulate student records.
+The Student Management System is a console-based application built in C++ that allows users to manage a list of students, their academic performance, and results. It uses a linked list data structure to store and manipulate student records dynamically.
 
 #Features
 Create List: Initialize a list of student records.
